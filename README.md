@@ -1,5 +1,5 @@
 # Evolving L-System
-A Lindenmayer system where the ruleset goes through random mutations to create 
+A Lindenmayer system where the ruleset goes through random mutations to create interesting patterns.
 
 ![lsystem](https://i.imgur.com/1OlREFj.png)
 
